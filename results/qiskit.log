@@ -1,0 +1,15 @@
+sherbrooke 0 {'nedges': 30, 'logical_cx': 60, 'logical_depth': 124, 'routed_2q': [119, 120, 122, 122, 106], 'routed_depth': [391, 429, 378, 425, 341], 'phys_qubits': [10, 10, 10, 10, 10]}
+sherbrooke 1 {'nedges': 34, 'logical_cx': 68, 'logical_depth': 130, 'routed_2q': [142, 138, 136, 136, 149], 'routed_depth': [420, 413, 421, 398, 464], 'phys_qubits': [10, 10, 10, 10, 10]}
+sherbrooke 2 {'nedges': 37, 'logical_cx': 74, 'logical_depth': 134, 'routed_2q': [150, 122, 144, 150, 136], 'routed_depth': [404, 364, 435, 431, 399], 'phys_qubits': [10, 10, 10, 10, 10]}
+sherbrooke 3 {'nedges': 31, 'logical_cx': 62, 'logical_depth': 134, 'routed_2q': [115, 123, 119, 106, 115], 'routed_depth': [385, 402, 397, 364, 353], 'phys_qubits': [10, 10, 10, 10, 10]}
+sherbrooke 4 {'nedges': 36, 'logical_cx': 72, 'logical_depth': 140, 'routed_2q': [138, 150, 128, 134, 130], 'routed_depth': [438, 470, 392, 394, 370], 'phys_qubits': [10, 10, 10, 10, 10]}
+torino 0 {'nedges': 30, 'logical_cx': 60, 'logical_depth': 124, 'routed_2q': [122, 121, 112, 111, 116], 'routed_depth': [250, 258, 211, 252, 251], 'phys_qubits': [10, 10, 10, 10, 10]}
+torino 1 {'nedges': 34, 'logical_cx': 68, 'logical_depth': 130, 'routed_2q': [142, 140, 138, 131, 138], 'routed_depth': [247, 270, 274, 241, 229], 'phys_qubits': [10, 10, 10, 10, 10]}
+torino 2 {'nedges': 37, 'logical_cx': 74, 'logical_depth': 134, 'routed_2q': [140, 141, 130, 140, 139], 'routed_depth': [268, 305, 264, 263, 268], 'phys_qubits': [10, 10, 10, 10, 10]}
+torino 3 {'nedges': 31, 'logical_cx': 62, 'logical_depth': 134, 'routed_2q': [118, 117, 104, 115, 110], 'routed_depth': [266, 239, 255, 223, 241], 'phys_qubits': [10, 10, 10, 10, 10]}
+torino 4 {'nedges': 36, 'logical_cx': 72, 'logical_depth': 140, 'routed_2q': [135, 139, 139, 130, 136], 'routed_depth': [254, 285, 280, 262, 279], 'phys_qubits': [10, 10, 10, 10, 10]}
+noise 0 0.12862248755894568 0.77277148397604 61.052244901657104
+noise 1 0.14175999335648679 0.7343513249208364 73.89405512809753
+noise 2 0.20358292644108153 0.7175671721802988 80.70860147476196
+noise 3 0.10611824586961843 0.8113355254006903 58.83142805099487
+noise 4 0.12585638123336346 0.6984315637821408 69.30985069274902

@@ -1,0 +1,18 @@
+[    468s] fit M4 0 scale 0.0599 R2 0.0508
+[    469s] fit C1 0 scale 0.0682 R2 0.057
+[    469s] fit C2 0 scale 0.0653 R2 0.0618
+[    962s] fit M4 1 scale 0.0073 R2 0.0106
+[    963s] fit C1 1 scale 0.0195 R2 0.0247
+[    963s] fit C2 1 scale 0.0239 R2 0.03
+[   1535s] fit M4 2 scale 0.0111 R2 -0.0183
+[   1536s] fit C1 2 scale 0.0112 R2 0.0064
+[   1536s] fit C2 2 scale 0.0117 R2 0.0086
+[   2051s] fit M4 3 scale 0.0211 R2 0.0173
+[   2052s] fit C1 3 scale 0.0251 R2 0.0204
+[   2052s] fit C2 3 scale 0.0297 R2 0.024
+[   2548s] fit M4 4 scale 0.0404 R2 0.0323
+[   2549s] fit C1 4 scale 0.0269 R2 0.0304
+[   2550s] fit C2 4 scale 0.0301 R2 0.0332
+[   2562s] best {'M4-off': {'cfg': {'eta_lam': 1.0, 'lam0': 'fit', 'rule': 'signed'}, 'valmae': np.float64(0.17127214365726104)}, 'C1-off': {'cfg': {'eta_lam': 1.0, 'lam0': 0.05, 'rule': 'signed'}, 'valmae': np.float64(0.17921633416059304)}, 'C2-off': {'cfg': {'mult': 0.25, 'rule': 'fixed'}, 'valmae': np.float64(0.1851917290530946)}}
+[   2569s] {'M4-off': np.float64(0.21964330178836608), 'C1-off': np.float64(0.22041638040205916), 'C2-off': np.float64(0.23378919090574318)}
+[   2569s] done

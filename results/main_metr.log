@@ -1,0 +1,9 @@
+tuned ['M2', 'M3', 'M4', 'M5', 'C1', 'C2', 'C4', 'Lmono', 'Lleaky', 'Lsoft', 'Rdiag', 'V1', 'V1C'] on 15 val units in 1067s
+{'M2': {'cfg': {'lam0': 0.01}, 'valmae': np.float64(0.19868526046983118)}, 'M3': {'cfg': {'eta_lam': 0.2, 'lam0': 0.05}, 'valmae': np.float64(0.18847243308594788)}, 'M4': {'cfg': {'eta_lam': 0.2, 'eta_theta': 0.0, 'lam0': 0.05}, 'valmae': np.float64(0.18847243308594788)}, 'M5': {'cfg': {'eta_lam': 0.2, 'eta_theta': 0.0, 'lam0': 0.05}, 'valmae': np.float64(0.18829499185904955)}, 'C1': {'cfg': {'eta_lam': 0.05, 'eta_theta': 0.1, 'lam0': 0.05}, 'valmae': np.float64(0.21771342980473402)}, 'C2': {'cfg': {'eta_lam': 0.05, 'eta_theta': 0.1, 'lam0': 0.05}, 'valmae': np.float64(0.22009607733360967)}, 'C4': {'cfg': {'eta_lam': 1.0, 'eta_theta': 0.0, 'lam0': 0.05}, 'valmae': np.float64(0.18122903458411488)}, 'Lmono': {'cfg': {'eta_lam': 0.05, 'eta_theta': 0.1, 'lam0': 0.05}, 'valmae': np.float64(3.9185017535204505)}, 'Lleaky': {'cfg': {'eta_lam': 0.05, 'eta_theta': 0.1, 'lam0': 0.05}, 'valmae': np.float64(0.20254585052425825)}, 'Lsoft': {'cfg': {'eta_lam': 0.05, 'eta_theta': 0.1, 'lam0': 0.05}, 'valmae': np.float64(2.9773020415308875)}, 'Rdiag': {'cfg': {'eta_lam': 0.2, 'eta_theta': 0.0, 'lam0': 0.05}, 'valmae': np.float64(0.18847243308594788)}, 'V1': {'cfg': {'eta_lam': 0.01, 'eta_theta': 0.1, 'lam0': 0.428}, 'valmae': np.float64(3.87693776313779)}, 'V1C': {'cfg': {'eta_lam': 0.01, 'eta_theta': 0.1, 'lam0': 0.428}, 'valmae': np.float64(0.2775028925442626)}, 'M1': {'cfg': {}, 'valmae': None}}
+noise Shots S=100 1353.3731343746185
+noise Shots S=1000 1415.115029335022
+noise Shots S=10000 1475.2256348133087
+noise Depol. p=0.001 1533.355110168457
+noise Depol. p=0.01 1594.1643242835999
+noise S=1000, p=0.01 1657.7660238742828
+done in 1658s

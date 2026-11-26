@@ -1,0 +1,3 @@
+tuned ['M4', 'C1', 'C2'] on 15 val units in 41s
+{'M4': {'cfg': {'eta_lam': 0.2, 'eta_theta': 0.0, 'lam0': 0.05}, 'valmae': np.float64(0.06983629778174628)}, 'C1': {'cfg': {'eta_lam': 0.2, 'eta_theta': 0.1, 'lam0': 0.05}, 'valmae': np.float64(0.07586925345555255)}, 'C2': {'cfg': {'eta_lam': 0.2, 'eta_theta': 0.1, 'lam0': 0.05}, 'valmae': np.float64(0.0763424219721224)}, 'M1': {'cfg': {}, 'valmae': None}}
+done in 55s

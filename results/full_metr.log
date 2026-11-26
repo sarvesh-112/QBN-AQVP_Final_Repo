@@ -1,0 +1,3 @@
+tuned ['M3', 'M4', 'C1', 'C2', 'C4'] on 3 val units in 169s
+{'M3': {'cfg': {'eta_lam': 1.0, 'lam0': 0.05}, 'valmae': np.float64(0.04486227880216475)}, 'M4': {'cfg': {'eta_lam': 1.0, 'eta_theta': 0.1, 'lam0': 0.05}, 'valmae': np.float64(0.04486227539158344)}, 'C1': {'cfg': {'eta_lam': 0.2, 'eta_theta': 0.1, 'lam0': 0.05}, 'valmae': np.float64(0.06376420025157702)}, 'C2': {'cfg': {'eta_lam': 0.2, 'eta_theta': 0.1, 'lam0': 0.05}, 'valmae': np.float64(0.060796889470278954)}, 'C4': {'cfg': {'eta_lam': 1.0, 'eta_theta': 0.0, 'lam0': 0.05}, 'valmae': np.float64(0.044861938619695306)}} 170s
+{'M1': 0.0399, 'M3': 0.0406, 'M4': 0.0406, 'C1': 0.0709, 'C2': 0.0672, 'C4': 0.0431, 'F1': 0.0505, 'C3': 0.0403} 469s
